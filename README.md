@@ -34,7 +34,7 @@ npm run dev
 ![product_page](https://github.com/Dalton-G/Sole-Admin/blob/master/assets/product_page.png?raw=true)
 ![edit_product](https://github.com/Dalton-G/Sole-Admin/blob/master/assets/edit_product.png?raw=true)
 ![order](https://github.com/Dalton-G/Sole-Admin/blob/master/assets/order.png?raw=true)
-![theme_toggle](https://github.com/Dalton-G/Sole-Admin/blob/master/assets/theme_toggle.png?raw=true)
+![api_test](https://github.com/Dalton-G/Sole-Admin/blob/master/assets/api_works.png?raw=true)
 
 ## Contributing
 
